@@ -1,0 +1,40 @@
+# Dépendances et caches
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+.cache/
+
+# Builds et archives
+*.aab
+*.apk
+*.ipa
+*.zip
+
+# Natif généré
+android/
+ios/
+
+# Secrets et clés de signature
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p8
+*.p12
+*.pem
+*.key
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+credentials.json
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
