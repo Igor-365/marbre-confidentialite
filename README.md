@@ -4,6 +4,7 @@ Pages HTML des politiques de confidentialité des applis « de Marbre ». Fait p
 
 ## Contenu
 
+- `awale.html`
 - `dames.html`
 - `dominos.html`
 - `echecs.html`
